@@ -1,0 +1,4 @@
+hello world 
+im creating new file pushong with commands
+bye
+thank you
